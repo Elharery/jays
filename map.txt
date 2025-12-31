@@ -1,0 +1,15 @@
+project/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── app.js        # router
+│   ├── routes.js
+│   ├── data/
+│   │   └── products.json
+│   └── pages/
+│       ├── home.js
+│       ├── products.js
+│       ├── productDetails.js
+│       └── cart.js
