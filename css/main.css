@@ -60,7 +60,7 @@ header nav ul li{}
 .products .title{
     padding: 15px 20px;
 }
-.products .title h3{ff;
+.products .title h3{
     border: 3px solid #0075ff;
     border-radius: 7px;
     width: fit-content;
